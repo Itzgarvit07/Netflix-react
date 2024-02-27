@@ -23,10 +23,10 @@ function Header() {
           backgroundImage: `url(${img_baseURL}${banner.backdrop_path})`,height:"100vh",backgroundSize:"cover"
         }}>
 <div className="head">
-<img src="./src/Netflix/images/netflix-logo.png" alt="" />
+<img src="netflix-images/netflix-logo.png" alt="" />
 </div>
 <div className="second-head">
-    <img src="./src/Netflix/images/green-blue-emoji.png" alt="" />
+    <img src="netflix-images/green-blue-emoji.png" alt="" />
 </div>
 
 
